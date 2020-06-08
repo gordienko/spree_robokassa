@@ -19,3 +19,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'offsite_payments', '~> 2.7.24'
 
 end
+
+
